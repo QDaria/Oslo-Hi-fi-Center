@@ -1,5 +1,5 @@
 # Oslo Hi-fi Center API
-An all purpose API for Oslo Hi-fi Center administration with the following directory structure
+All purpose API for Oslo Hi-fi Center administration with the following directory structure
 
 ```bash
 ├── db.sqlite3
